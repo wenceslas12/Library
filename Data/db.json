@@ -1,0 +1,6 @@
+{
+  "books": [
+    { "id": 1, "item": "Smrt na Nilu", "completed": true },
+    { "id": 2, "item": "Harry Potter a tajmená komnata", "completed": false }
+  ]
+}
